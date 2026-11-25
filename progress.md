@@ -81,7 +81,18 @@ Baris verbatim terkuat (rank 2): dua kalimat pendek, twist di kalimat kedua, det
 - [ ] 28 draf + turnamen pairwise (drafts.md)
 - [ ] Finalis vs 3 baris pemenang resolved
 - [x] main.ts ditulis (≥2 write/edit) + verifikasi byte-identical 2x (sha256 3db1a1bc..., 119 karakter, 22 kata, satu baris)
-- [ ] makefun init + commit + gh repo create + push
-- [ ] Laporan akhir ke parent
+- [x] makefun init + commit + gh repo create + push
+- [x] SUBMIT-READY — laporan akhir ke parent di bawah
+
+## HASIL AKHIR (submit-ready, parent bundle + submit)
+- Commit: 866db1eb860deed9b12d3e3e07c5e52f0ea32dcb (HEAD == origin, GitHub cengkeh1608-oss/snooze-roast, branch master)
+- Root commit: a61a181 — HANYA .makefun/freshness.json
+- Anchor drand: a61a1813af1e3c7378921bd16a82c82b8c8aaa0c, round 34275304
+- Teks final A5 (119 karakter, 22 kata, satu baris):
+  "My alarm doesn't know it's Saturday. It also doesn't know I retired it in March. It just shows up, loud and unemployed."
+- Output terverifikasi: sha256 3db1a1bc455622ce9aac309f517f17e115f68fff8fc49ca9bd3476770802442f, byte-identical 2x dari cwd berbeda
+- Turnamen: A5 juara 7-0 (28 draf, round-robin 8 finalis)
+- Finalis vs 3 baris pemenang resolved: A5 1-2 (kalah tipis dari W1 apology + W3 one-line-laugh, menang dari W2 ai-joke-03) — caveat jujur, lihat drafts.md
+- Flags execution-risk: 0
 
 ## Flags execution-risk: 0 sejauh ini.
